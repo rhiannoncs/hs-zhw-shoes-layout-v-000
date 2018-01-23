@@ -37,9 +37,13 @@
 .column-3 {
   width: 31.33%;
   float: left;
-  margin-left: 2%;
+  margin: 0% 2% 0% 2%;
 }
 
 .column-3:first-child {
   margin-left: 0%;
+}
+
+.column-3:last-child {
+  margin-right: 0%;
 }
