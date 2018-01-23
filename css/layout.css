@@ -24,6 +24,7 @@
 
 /* Posititoning Classes */
 .column-1 {
+  float: left;
   width: 100%;
   background: transparent;
   padding: 0;
