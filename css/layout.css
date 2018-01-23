@@ -30,7 +30,6 @@
   background: transparent;
   padding: 0;
   margin-bottom: 1.5%;
-  position: relative;
 }
 
 .column-2 {
@@ -38,9 +37,6 @@
   float: left;
   margin-right: 1.5%;
   height: 100%;
-  position: absolute;
-  top: 0;
-  bottom: 0;
 }
 
 .column-3 {
@@ -48,9 +44,6 @@
   float: left;
   margin: 0% 1.5% 0% 1.5%;
   height: 100%;
-  position: absolute;
-  top: 0;
-  bottom: 0;
 }
 
 .column-3:first-child {
