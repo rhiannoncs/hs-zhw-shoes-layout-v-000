@@ -31,12 +31,13 @@
 .column-2 {
   width: 64.66%;
   float: left;
+  margin-right: 2%;
 }
 
 .column-3 {
   width: 31.33%;
   float: left;
-  margin-left: 4%;
+  margin-left: 2%;
 }
 
 .column-3:first-child {
