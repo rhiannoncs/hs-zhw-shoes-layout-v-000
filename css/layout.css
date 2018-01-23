@@ -46,4 +46,5 @@
 
 .column-3:last-child {
   margin-right: 0%;
+  float: right;
 }
